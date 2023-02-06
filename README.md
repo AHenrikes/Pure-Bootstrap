@@ -1,3 +1,3 @@
-# https://henrikesa.github.io/pBootstrap.github.io/
+# https://henrikesa.github.io/Pure-Bootstrap/
 
 Project that is only using Bootstrap for styling!
